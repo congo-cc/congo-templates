@@ -1,0 +1,5 @@
+== Bootstrap jarfile
+
+The `javacc-full.jar` is used to bootstrap the build. This includes a recent (early July 2022) version of javacc (21) and a version of the freemarker classes. 
+
+At some point soon, the various Congo projects will self-bootstrap.
