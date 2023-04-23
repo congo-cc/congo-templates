@@ -5,4 +5,4 @@ quite similar to https://en.wikipedia.org/wiki/FreeMarker[FreeMarker]
 written by the main FreeMarker developer.
 
 Congo templates aim to be a replacement for FreeMarker in the
-development of https://javacc.com/[JavaCC 21]
+ongoing development of https://parsers.org/[CongoCC]
